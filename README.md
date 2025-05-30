@@ -7,7 +7,7 @@ An intelligent crop recommendation system that uses machine learning to suggest 
 ## 🚀 Features
 
 - 📈 Accurate crop predictions using ML
-- 🌦️ Input-based recommendation (N, P, K, temp, humidity, pH, rainfall)
+- 🌦️ Input-based recommendation (N, P, K, temp, humidity, pH, rainfall & pH of soil)
 - 📊 Visualization of predictions and dataset insights
 - 🌐 Clean and interactive Streamlit web interface
 
